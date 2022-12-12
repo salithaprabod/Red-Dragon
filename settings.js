@@ -11,7 +11,18 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
+global.alivemsg = `📤salitha prabod
+👻◈𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙶𝚁𝙾𝚄𝙿◈👻
+
+https://chat.whatsapp.com/BntAvctkvCBLjR5IpLqL5j
+
+👻 කැමති කට්ටිය 𝚓𝚘𝚒𝚗 වෙන්න 𝚐𝚛𝚘𝚞𝚙 එකට 
+👻ලින්කුව ශෙයා කරාට අවුලක් නෑ. අනිවාරෙන්ම ශෙයා කරන්න🤭
+
+👻ඔයාලට ඕනෙ සින්දු , වීඩියෝ ඉල්ලන්න කොහොමහරි දෙනව .....
+
+❣️🔰❣️දවස් 2 කට 3කට සැරයක් 𝚖𝚙3 දානවා......
+❣️🔰❣️කැමති කට්ටිය 𝚓𝚘𝚢𝚒𝚗 වෙන්න....
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
@@ -29,11 +40,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.vcardowner = ['+94775986426'] // owner number
+global.ownername = "salitha prabod❯❯" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.location = "sri lanka" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
@@ -47,16 +58,16 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.owner = ['+94775986426']
+global.ownertag = '+94775986426' //your tag number
+global.botname = 'salitha prabod - 𝘉𝘖𝘛' //ur bot name
+global.packname = "salitha stiker" // sticker packname
+global.author = "salitha prabod" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94775986426'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
